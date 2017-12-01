@@ -1,3 +1,6 @@
+// Nikolas Lennon
+// Copyright 2017
+
 #include <stdio.h>
 #include <string.h>
 #include <iostream>
